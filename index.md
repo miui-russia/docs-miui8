@@ -1,6 +1,5 @@
 ---
 title: Übersicht
-tags: [getting_started]
 sidebar: home_sidebar
 toc: false
 type: homepage
