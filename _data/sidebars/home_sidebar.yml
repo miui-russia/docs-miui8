@@ -2,9 +2,8 @@
 
 entries:
 - title: Sidebar
-  levels: two
+  levels: one
   folders:
-
   - title: Übersicht
     output: web
     folderitems:
@@ -16,7 +15,7 @@ entries:
       url: /miui/
       output: web
       subfolders:
-      - title: Config process
+      - title: Miui Versionen
         output: web, pdf
         subfolderitems:
     	- title: Product 1
