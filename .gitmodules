@@ -1,0 +1,3 @@
+[submodule "documentation-theme-jekyll"]
+	path = documentation-theme-jekyll
+	url = git@github.com:tomjohnson1492/documentation-theme-jekyll.git

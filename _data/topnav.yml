@@ -1,0 +1,31 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: Home
+      url: /
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Miui
+      folderitems:
+        - title: MIUI 8 
+          url: /miui8/
+        - title: MIUI 7 
+          url: /miui7/
+        - title: MIUI 6 
+          url: /miui6/
+    - title: Xiaomi Geräte
+      folderitems:
+        - title: Mi 1
+          url: /mi1/
+        - title: Mi 2
+          url: /mi2/
+        - title: Mi 3
+          url: /mi3/
+
+
+
