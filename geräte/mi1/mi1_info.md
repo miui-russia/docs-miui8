@@ -1,8 +1,8 @@
 ---
-title: Sample 1 Topic (Product 1)
+title: Xiaomi Mi1
 keywords: sample
 summary: "This is just a sample topic..."
-sidebar: none_sidebar
+sidebar: home_sidebar
 permalink: /mi1/
 ---
 
