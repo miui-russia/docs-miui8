@@ -2,30 +2,25 @@
 
 entries:
 - title: sidebar
-  product: Jekyll Doc Theme
-  version: 5.0
+  product: Übersicht
   folders:
-  - title: Overview 
+  - title: Index 
     output: web, pdf
     folderitems:
-    - title: Some page
-      url: /some-doc-page/
-      output: web, pdf
-    - title: Another page
-      url: /another-doc-page/
-      output: web, pdf
-      
-  - title: Configuration
-    output: web
-    folderitems:
-    - title: How to configure the system
-      url: /configure-system/
+    - title: Home
+      url: /
       output: web, pdf
       subfolders:
-      - title: Config process
+      - title: Miui
         output: web, pdf
         subfolderitems:
-        - title: Creating the config file
-          url: /config-file-how-to/
+        - title: Miui 8
+          url: /miui8/
           output: web, pdf
-
+      subfolders:
+      - title: Xiaomi Geräte
+        output: web, pdf
+        subfolderitems:
+        - title: Mi1
+          url: /mi1/
+          output: web, pdf
