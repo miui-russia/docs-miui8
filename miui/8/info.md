@@ -1,8 +1,9 @@
 ---
-title: Sample 1 Topic (Product 1)
+title: Miui 8
 keywords: sample
-summary: "This is just a sample topic..."
+summary: "Miui9 Kurzinfos"
 sidebar: product1_sidebar
+toc: false
 permalink: /miui8/
 ---
 
