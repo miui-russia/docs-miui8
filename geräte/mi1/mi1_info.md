@@ -2,7 +2,6 @@
 title: Sample 1 Topic (Product 1)
 keywords: sample
 summary: "This is just a sample topic..."
-sidebar: false
 permalink: /mi1/
 ---
 
