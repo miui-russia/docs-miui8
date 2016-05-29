@@ -13,9 +13,12 @@ entries:
       output: web
       type: homepage
     - title: Theme instructions
-      url: /mydoc_introduction/
+      url: /miui/
       output: web
-      folders:
+      subfolders:
+      - title: Config process
+        output: web, pdf
+        subfolderitems:
     	- title: Product 1
      	 url: /p1_landing_page/
      	 output: web
