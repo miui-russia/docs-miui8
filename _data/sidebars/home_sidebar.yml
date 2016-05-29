@@ -1,27 +1,31 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: Sidebar
-  levels: one
+- title: sidebar
+  product: Jekyll Doc Theme
+  version: 5.0
   folders:
-  - title: Übersicht
+  - title: Overview 
+    output: web, pdf
+    folderitems:
+    - title: Some page
+      url: /some-doc-page/
+      output: web, pdf
+    - title: Another page
+      url: /another-doc-page/
+      output: web, pdf
+      
+  - title: Configuration
     output: web
     folderitems:
-    - title: Home
-      url: /
-      output: web
-      type: homepage
-    - title: Theme instructions
-      url: /miui/
-      output: web
+    - title: How to configure the system
+      url: /configure-system/
+      output: web, pdf
       subfolders:
-      - title: Miui Versionen
+      - title: Config process
         output: web, pdf
         subfolderitems:
-    	- title: Product 1
-     	 url: /p1_landing_page/
-     	 output: web
-    	- title: Product 2
-     	 url: /p2_landing_page/
-     	 output: web
+        - title: Creating the config file
+          url: /config-file-how-to/
+          output: web, pdf
 
