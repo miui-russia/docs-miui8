@@ -12,7 +12,7 @@ site_title: Miui Germany  Docs (WIP)
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 company_name: Miui Germany
 # this appears in the footer
-# github_editme_path: 
+github_editme_path: MIUI-GER/docs-miui8/edit/reviews 
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 #disqus_shortname: 
 # if you're using disqus for comments, add the shortname here. if not, leave this value blank.
