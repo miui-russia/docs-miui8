@@ -1,7 +1,7 @@
 ---
 title: Übersicht
 tags: [getting_started]
-sidebar: product1_sidebar
+sidebar: home_sidebar
 type: homepage
 ---
 ## Overview 
