@@ -25,7 +25,7 @@ layout: default
 
     {% endunless %}
 
-  {{content}}
+  {{content | replace: '<li>[ ]', '<li><i class="fa fa-square-o"></i>' | replace: '<li>[]', '<li><i class="fa fa-square-o"></i>' | replace: '<li>[x]', '<li><i class="fa fa-check-square-o"></i>' | replace: '<li>[X]', '<li><i class="fa fa-check-square-o"></i>' }}
 
 <div class="tags">
     {% if page.tags != null %}
