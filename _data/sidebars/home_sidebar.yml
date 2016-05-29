@@ -17,7 +17,6 @@ entries:
         - title: Miui 8
           url: /miui8/
           output: web, pdf
-      subfolders:
       - title: Xiaomi Geräte
         output: web, pdf
         subfolderitems:
