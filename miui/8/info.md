@@ -1,7 +1,7 @@
 ---
 title: Miui 8
 keywords: sample
-summary: "Miui9 Kurzinfos"
+summary: "Miui 8 Kurzinfos"
 sidebar: product1_sidebar
 toc: false
 permalink: /miui8/
